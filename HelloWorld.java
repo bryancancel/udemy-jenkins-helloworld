@@ -5,7 +5,7 @@ public class HelloWorld {
     private static String getMessage(){
 		String message = "-----***** Hello World & Welcome to Jenkins Training *****-----";
 		message += "\nMade Some Changes";
-        message += "\nMade Some More Changes";
+        message += "\nMade More Changes";
         return message;
     }
 }
